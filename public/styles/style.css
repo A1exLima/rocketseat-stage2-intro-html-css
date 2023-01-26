@@ -49,6 +49,13 @@ span{
     color: #EE24FF; 
 }
 
+.marca{
+    color: #828282
+}
+
+strong{
+    color: #3F3D56;
+}
 p{
     width: 540px;
     font-family: 'Open Sans', sans-serif;
@@ -58,10 +65,6 @@ p{
     text-align: center;
     color: #828282;
     padding-bottom: 32px;
-}
-
-strong{
-    color: #3F3D56;
 }
 
 footer{
