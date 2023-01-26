@@ -78,8 +78,9 @@ nav{
     display: flex;
     justify-content: center;
     gap: 42px;
-    margin-top: 16px;
-    margin-bottom: 40.83px;   
+    padding-top: 16px;
+    margin-bottom: 40.83px;
+    border-top: 1px solid #ECEFF2;  
 }
 
 nav a {
